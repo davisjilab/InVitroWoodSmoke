@@ -1,0 +1,1 @@
+This folder contains the script used for correlating DNA methylation and gene-expression measurements following in vitro wood-smoke exposure. `wood_smoke_percent_methylation.csv` and `normalized_wood_smoke_counts.csv` are required data files for running `Methylation_Expression_correlation.R`.

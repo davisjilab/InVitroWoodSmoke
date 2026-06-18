@@ -1,0 +1,13 @@
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+results/
+data/*.csv
+data/*.tsv
+data/*.txt
+data/*.xlsx
+data/*.rds
+data/*.RData
+data/*.gz
+!data/README.md

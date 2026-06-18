@@ -1,0 +1,1 @@
+This folder contains the script used for weighted gene co-expression network analysis (WGCNA) of the wood-smoke exposure RNA-seq data. `wood_smoke_exposure_rnaseq_counts.csv` is a required data file for running `Wood_Smoke_WGCNA_analysis.R`.

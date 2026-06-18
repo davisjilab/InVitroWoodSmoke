@@ -1,0 +1,1 @@
+This folder contains the script used for evaluating rhesus macaque-to-human gene orthology and genomic interval conservation. Orthology input CSV files, `rhesus_intervals.csv`, and `rheMac10ToHg38.over.chain.gz` are required data files for running `Rhesus_Human_conservation_analysis.R` when both analysis modes are enabled.
