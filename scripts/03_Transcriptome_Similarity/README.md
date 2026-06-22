@@ -1,1 +1,0 @@
-This folder contains the script used for comparing differential-expression signatures and calculating pairwise transcriptomic similarity. The number at the beginning of the script name indicates the order in which it was run. Differential-expression CSV files stored in `data/differential_expression/` are required for running `3_Transcriptome_similarity_analysis.R`.
